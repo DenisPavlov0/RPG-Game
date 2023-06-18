@@ -11,7 +11,7 @@
 
 <h1>Game Scene:</h1>
 
-<img src="https://github.com/DenisPavlov0/An-unexpected-obstacle/raw/main/Image.png" alt="Image" width="800" height="500">
+<img src="https://github.com/DenisPavlov0/RPG-Game/raw/main/Image.png" alt="Image" width="800" height="500">
 
-<img src="https://github.com/DenisPavlov0/An-unexpected-obstacle/raw/main/Image1.png" alt="Image" width="800" height="500">
+<img src="https://github.com/DenisPavlov0/RPG-Game/raw/main/Image1.png" alt="Image" width="800" height="500">
  
